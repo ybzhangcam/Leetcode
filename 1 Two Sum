@@ -1,3 +1,4 @@
+#include <stdio.h>
 //Approach 1  brute force
 int* twoSum(int* nums, int numsSize, int target)
 {
